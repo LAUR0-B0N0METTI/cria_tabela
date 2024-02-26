@@ -34,7 +34,7 @@ O arquivo Excel resultante será salvo na Área de Trabalho com o nome `tabela_r
 
 ## Autor
 
-Seu Nome
+Lauro Bonometti
 
 ## Licença
 
