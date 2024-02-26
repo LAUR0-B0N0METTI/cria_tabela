@@ -41,5 +41,3 @@ Lauro Bonometti
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
 
 ---
-
-Sinta-se à vontade para personalizar o README conforme necessário. Certifique-se de incluir seu nome como autor e ajustar a licença conforme apropriado para o seu uso.
