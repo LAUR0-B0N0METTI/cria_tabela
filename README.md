@@ -1,6 +1,6 @@
 # Programa Gera Tabela
 
-Este programa em Python é para fins de estudo de analise de dados, onde consiste em criar uma tabela com "X" números de linhas e a salva em um arquivo Excel na Área de Trabalho. Cada linha contém valores aleatórios para as colunas [Loja], [Item], [Tamanho], [Quantidade], e [Valor]. A coluna [Loja] intercala valores de 'Loja 1' a 'Loja 10', a coluna [Item] intercala entre 20 tipos de roupas diferentes, a coluna [Quantidade] contém valores inteiros aleatórios, a coluna [Tamanho] intercala entre os valores 'PP', 'P', 'M', 'G', 'GG', 'EGG', e a coluna [Valor] contém valores aleatórios em formato float.
+Este programa em Python é para fins de estudo de analise de dados, onde consiste em criar uma tabela com "X" números de linhas e a salva em um arquivo Excel. Cada linha contém valores aleatórios para as colunas [Loja], [Item], [Tamanho], [Quantidade], e [Valor]. A coluna [Loja] intercala valores de 'Loja 1' a 'Loja 10', a coluna [Item] intercala entre 20 tipos de roupas diferentes, a coluna [Quantidade] contém valores inteiros aleatórios, a coluna [Tamanho] intercala entre os valores 'PP', 'P', 'M', 'G', 'GG', 'EGG', e a coluna [Valor] contém valores aleatórios em formato float.
 
 ## Requisitos
 
